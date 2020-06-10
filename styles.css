@@ -1,0 +1,15 @@
+body {
+	font: 'Open Sans', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: none;
+    top: 15%;
+	background: linear-gradient(to right, rgb(75, 113, 184) , rgb(14, 197, 167)); /* Standard syntax */
+}
+.login{
+    top: 40%;
+	left: 50%;
+	margin:  30%;
+	width:400px;
+
+}
